@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #3484c6;
+    background-color: #111;
 }
 
 
@@ -29,14 +29,14 @@ body {
 }
 
 #title {
-    color: lightgray;
+    color: #418fca;
     font-size: 40px;
     font-weight: 600;
     padding-top: 5px;
 }
 
 #filter {
-    color: lightgray;
+    color: #418fca;
     font-size: 12px;
 }
 
